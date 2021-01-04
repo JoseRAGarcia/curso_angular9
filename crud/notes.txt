@@ -67,9 +67,11 @@ Aula 10
 _____________________________________________________________
 Aula 11
 
--Gerada diretiva com o comando "ng g d directives/red";
+-Gerada diretiva red com o comando "ng g d directives/red";
 _____________________________________________________________
+Aula 12
 
-
+-Gerada a diretiva for com o comando "ng g d directives/for";
+_____________________________________________________________
 
 
