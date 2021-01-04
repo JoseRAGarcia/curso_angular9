@@ -33,6 +33,12 @@ Aula 5
 
 -Instalado o "Material" com o comando "ng add @angular/material";
 _______________________________________________________________________
+Aula 6
 
+-Gerado componente header com o comando "ng g c components/template/header";
 
+-Feito o import { MatToolbarModule } from '@angular/material/toolbar' em app.module.ts;
+
+-Alterados o header.component.html e header.component.css
+__________________________________________________________________________
 
