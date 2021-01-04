@@ -47,6 +47,10 @@ Aula 7
 
 -Alterados o footer.component.html, footer.component.css e styles.css;
 _________________________________________________________________________
+Aula 8
 
+-Gerado componente nav com o comando "ng g c components/template/nav";
+
+-Alterados o nav.component.html, nav.component.css;
 
 
