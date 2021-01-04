@@ -39,6 +39,14 @@ Aula 6
 
 -Feito o import { MatToolbarModule } from '@angular/material/toolbar' em app.module.ts;
 
--Alterados o header.component.html e header.component.css
+-Alterados o header.component.html e header.component.css;
 __________________________________________________________________________
+Aula 7
+
+-Gerado componente footer com o comando "ng g c components/template/footer";
+
+-Alterados o footer.component.html, footer.component.css e styles.css;
+_________________________________________________________________________
+
+
 
