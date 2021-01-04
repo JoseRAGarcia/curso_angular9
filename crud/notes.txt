@@ -59,5 +59,11 @@ Aula 9
 
 -Alterados o "home.component.html" e "home.component.css";
 _____________________________________________________________
+Aula 10
+
+-Gerado componente product-crud com o comando "ng g c views/product-crud";
+_____________________________________________________________
+
+
 
 
