@@ -18,7 +18,7 @@ Aula 2
 
 -Criado projeto com o comando "ng new frontend --minimal" aceitando route quando for solicitado;
 
--Entrar na pasta frontend e iniciar o projeto com "npm start". Será iniciado na porta padrão 4200;
+-Entrar na pasta frontend e iniciar o projeto com "npm start". Serï¿½ iniciado na porta padrï¿½o 4200;
 _______________________________________________________________
 Aula 3
 
@@ -51,6 +51,13 @@ Aula 8
 
 -Gerado componente nav com o comando "ng g c components/template/nav";
 
--Alterados o nav.component.html, nav.component.css;
+-Alterados o "nav.component.html" e "nav.component.css";
+_____________________________________________________________
+Aula 9
+
+-Gerado componente home com o comando "ng g c views/home";
+
+-Alterados o "home.component.html" e "home.component.css";
+_____________________________________________________________
 
 
