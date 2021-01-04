@@ -6,13 +6,19 @@ Aula 1
 
 -Criado o arquivo "db.json" onde foram criados alguns produtos;
 
--Alterado o script no arquivo package.json para:
+-Alterado o script no arquivo "package.json" para:
 
 "scripts": {
     "start": "json-server --watch db.json --port 3001"
   },
 ______________________________________________________________
 Aula 2
+
+Noções teóricas sobre Angular;
+______________________________________________________________
+Aula 3
+
+-Instalado o CLI do Angular com o comando "npm i -g @angular/cli";
 
 
 
