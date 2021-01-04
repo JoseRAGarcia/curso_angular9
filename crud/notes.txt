@@ -62,6 +62,12 @@ _____________________________________________________________
 Aula 10
 
 -Gerado componente product-crud com o comando "ng g c views/product-crud";
+
+-Criadas rotas em "app-routing.module.ts";
+_____________________________________________________________
+Aula 11
+
+-Gerada diretiva com o comando "ng g d directives/red";
 _____________________________________________________________
 
 
