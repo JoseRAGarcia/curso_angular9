@@ -1,0 +1,18 @@
+Aula 1
+
+-Criado um backend simples em json com o comando "npm init -y";
+
+-Criado o servidor json com o comando "npm i json-server";
+
+-Criado o arquivo "db.json" onde foram criados alguns produtos;
+
+-Alterado o script no arquivo package.json para:
+
+"scripts": {
+    "start": "json-server --watch db.json --port 3001"
+  },
+______________________________________________________________
+Aula 2
+
+
+
