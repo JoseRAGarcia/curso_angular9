@@ -14,11 +14,25 @@ Aula 1
 ______________________________________________________________
 Aula 2
 
-Noções teóricas sobre Angular;
-______________________________________________________________
+-Instalado o CLI do Angular com o comando "npm i -g @angular/cli";
+
+-Criado projeto com o comando "ng new frontend --minimal" aceitando route quando for solicitado;
+
+-Entrar na pasta frontend e iniciar o projeto com "npm start". Será iniciado na porta padrão 4200;
+_______________________________________________________________
 Aula 3
 
--Instalado o CLI do Angular com o comando "npm i -g @angular/cli";
+-Alterado o valor de inlineTemplate e inlineStyle para false no arquivo angular.json para que o HTML e o CSS sejam criados em arquivos separados;
+_____________________________________________________________
+Aula 4
+
+-Apagado o template do arquivo app.component.ts, feita o apntamento templateUrl: 'app.component.html'e criado o arquivo app.component.html;
+________________________________________________________________
+
+Aula 5
+
+-Instalado o "Material" com o comando "ng add @angular/material";
+_______________________________________________________________________
 
 
 
