@@ -11,7 +11,7 @@ export class ForDirective implements OnInit {
     private container: ViewContainerRef, 
     private template: TemplateRef<any>
     ) { 
-
+      this.numbers = [];
   }
 
   ngOnInit(): void {

@@ -76,5 +76,10 @@ _____________________________________________________________
 Aula 13
 
 -Gerado componente product-create com o comando "ng g c components/product/product-create";
+_____________________________________________________________
+Aula 14
+
+-Criado Navegação entre products e products/create;
+_____________________________________________________________
 
 
