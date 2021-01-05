@@ -85,5 +85,10 @@ Aula 15
 
 -Criado o product model para alimentação do banco de dados;
 _____________________________________________________________
+Aula 16
 
+-Criado o service product com o comando "ng g s components/product/product";
+
+-Criado uma SnackBar no service product;
+_____________________________________________________________
 
