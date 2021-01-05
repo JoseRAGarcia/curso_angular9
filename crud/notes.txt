@@ -81,5 +81,9 @@ Aula 14
 
 -Criado Navegação entre products e products/create;
 _____________________________________________________________
+Aula 15
+
+-Criado o product model para alimentação do banco de dados;
+_____________________________________________________________
 
 
