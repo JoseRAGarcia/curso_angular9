@@ -91,4 +91,7 @@ Aula 16
 
 -Criado uma SnackBar no service product;
 _____________________________________________________________
+Aula 17
 
+-Criadas as funções para criação de produto no backend;
+_____________________________________________________________
