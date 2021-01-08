@@ -103,3 +103,7 @@ Aula 19
 
 -Criado o componente "product-read" com o comando "ng g c components/product/product-read";
 _____________________________________________________________
+Aula 20
+
+-Utilizada a diretiva estrutural ngFor para exibir produtos;
+_____________________________________________________________
