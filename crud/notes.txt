@@ -95,3 +95,7 @@ Aula 17
 
 -Criadas as funções para criação de produto no backend;
 _____________________________________________________________
+Aula 18
+
+-Criado formulário de input de produtos no bd;
+_____________________________________________________________
