@@ -99,3 +99,7 @@ Aula 18
 
 -Criado formulário de input de produtos no bd;
 _____________________________________________________________
+Aula 19
+
+-Criado o componente "product-read" com o comando "ng g c components/product/product-read";
+_____________________________________________________________
